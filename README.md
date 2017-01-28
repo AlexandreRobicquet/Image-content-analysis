@@ -4,6 +4,7 @@
 
 2 - LeNet
 
+3 - Hypercolumn
 
 ## LeNet
 
