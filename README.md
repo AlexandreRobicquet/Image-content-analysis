@@ -25,6 +25,7 @@ This implementation simplifies the model in the following ways:
  - LeNet5 was not fully-connected convolutions at second layer
 
 References:
+
  - Y. LeCun, L. Bottou, Y. Bengio and P. Haffner:
    Gradient-Based Learning Applied to Document
    Recognition, Proceedings of the IEEE, 86(11):2278-2324, November 1998.
